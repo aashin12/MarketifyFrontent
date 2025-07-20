@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+*{
+    font-family: "Tektur", sans-serif;
+}
+
+body {
+    overflow-x: hidden;
+  }
+
+html {
+    scroll-behavior: smooth;
+  }
+  
