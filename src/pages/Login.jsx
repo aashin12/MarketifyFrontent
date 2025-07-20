@@ -170,7 +170,7 @@ export function Login() {
 
         {/* Google Login */}
         <button
-          // onClick={() => alert("Google login action")}
+          onClick={() => console.log("Google login action")}
           className="w-full py-3 bg-white text-gray-800 hover:bg-gray-200 font-semibold rounded-lg flex items-center justify-center gap-2 transition duration-300 border-2 border-purple-600"
         >
           <GoogleLogin
